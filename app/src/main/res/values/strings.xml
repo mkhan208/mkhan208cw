@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Traffic Scotland</string>
+    <string name="app_title">Welcome to Scotland</string>
+    <string name="sub_name">Current Incidents</string>
+    <string name="sub_name1">Planned Roadwork</string>
+    <string name="rss_feed">Type of Data</string>
+    <string name="current_incident_btn">Current Incident</string>
+    <string name="roadwork_plan_btn">Road Work</string>
+    <string name="exit_btn">Press to Exit</string>
+    <string name="get_data_btn">Get Data</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="link">Link</string>
+    <string name="georss">Geo Rss</string>
+    <string name="author">Author</string>
+    <string name="comment">Comment</string>
+    <string name="pubdate">Published Date</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="simpleDatePicker">Select Date</string>
+    <string name="searchTitle">Search by Title</string>
+    <string name="returnButton">Press to return</string>
+
+</resources>
